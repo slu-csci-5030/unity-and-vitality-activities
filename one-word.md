@@ -1,19 +1,19 @@
-# 🧠 One Word, One Teammate
+# One Word, One Teammate
 
-## 🧩 Overview
+## Overview
 This short, reflective activity helps build **unity**, encourage **vitality**, and establish **psychological safety** by letting each team member describe their peers using just **one word**.
 
-## ⏳ Time Required
+## Time Required
 15–20 minutes
 
-## 📍 Location
+## Location
 Classroom
 
-## 🧰 Materials Needed
+## Materials Needed
 - Sticky notes or notecards
 - Pens or markers  
 
-## 🎯 Instructions
+## Instructions
 
 1. **Prompt**  
    Ask each participant to think about the teammates in the room and describe **each one** using **one positive word**. It should reflect how they perceive that person’s role or vibe on the team.
