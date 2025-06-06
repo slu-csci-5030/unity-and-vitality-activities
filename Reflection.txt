@@ -1,35 +1,102 @@
-# Common Ground Blitz
+# Value Collage
 
-## Objective
-Promote unity and trust among team members. 
+**Given** a new software development team
+**When** they engage in the Value Collage activity
+**Then** the team builds a unified and vital team culture, with increased psychological safety, trust, and a sense of community
 
-## Time
-15–20 minutes
+## Overview
+
+The Value Collage is a team-building activity where team members collaboratively create a visual representation of their shared values using simple materials. Each member contributes words or drawings that reflect the team’s mission, vision, or values, fostering unity and vitality. The activity is quick, accessible, and safe, designed for a company meeting room.
+
+## Objectives
+
+- **Unity:** Promotes alignment by identifying and visualizing shared team values.
+- **Vitality:** Builds trust and community through collaborative creation and open discussion.
+- **Psychological Safety:** Creates a safe space for sharing personal perspectives without fear of judgment.
 
 ## Materials
-- Sticky notes or index cards
-- Pens
-- Timer or phone
+
+- A large sheet of paper or poster board ($2–$5).
+- Markers or pens ($2–$5).
+- Sticky notes ($1–$2).
+- A timer to manage rounds.
 
 ## Setup
-- Gather team in a circle or around a table in a meeting room.
-- Distribute sticky notes/cards and pens to everyone.
+
+- **Location:** A company meeting room with a table or wall for the collage.
+- **Participants:** Suitable for 4–20 participants (scalable, works well for 8 people).
+- **Duration:** 18 minutes.
+- **Safety:** No physical risks, all activities involve writing or drawing, safe for all participants.
 
 ## Instructions
-1. Each person pairs up with someone in the team.
-2. In 3 minutes, pairs must find as many non-obvious things they have in common (not work-related).
-3. Write one commonality per sticky note.
-4. Rotate pairs and repeat (max 2 rotations).
-5. Stick notes on the wall under “Common Ground.”
+
+## **Scenario:** Introducing the team-building activity
+
+**Given** a new software development team in a company meeting room
+**When** the facilitator explains the purpose of creating a shared visual representation of team values
+**Then** team members understand the goal of fostering trust and connection
+And the team is prepared to engage in a unified activity
+
+## Scenario: Individual contributions to shared values
+
+**Given** team members in a meeting room with materials
+**When** each participant writes or draws one word, phrase, or symbol representing a team value (e.g., “trust,” “collaboration,” or a simple icon) on a sticky note (3 minutes)
+**Then** team members begin aligning on shared values
+And trust develops through personal contributions
+
+**Scenario:** Collaborating to build the collage
+
+**Given** team members with individual sticky note contributions
+**When** participants take turns placing their sticky notes on a poster board, briefly explaining their choice (5 minutes)
+**Then** team members build agreement through shared value discussions
+And a sense of community is strengthened
+
+## Scenario: Unifying through group enhancement
+
+**Given** a team that has created an initial collage
+**When** the team collectively adds decorative elements (e.g., connecting lines, additional drawings) to unify the collage (3 minutes)
+**Then** the team achieves greater unity through shared ownership of the visual
+And team members feel a stronger collective purpose
+
+## Scenario: Reflecting to enhance psychological safety
+
+**Given** a team that has completed the collage activity
+**When** the facilitator leads a 4-minute discussion, asking questions like “What value resonated most with you?” or “How does this collage reflect our team?”
+**Then** team members express feelings of increased psychological safety
+And trust and community are reinforced through shared reflections
+
+## Scenario: Ensuring accessibility for all participants
+
+**Given** a team with diverse abilities in a company meeting room
+**When** the activity involves simple writing or drawing tasks that can be adapted (e.g., verbal contributions for those with motor or visual impairments)
+**Then** all team members, including those with diverse abilities, can participate fully
+
+## Scenario: Adhering to time and cost constraints
+
+**Given** a team-building activity in a company meeting room
+**When** the activity is completed in 18 minutes with materials costing under $12
+**Then** the activity meets the time constraint of under 20 minutes
+And the activity stays within the $20 budget
+
+## Accessibility
+
+- **Inclusive:** Verbal contributions can replace writing/drawing for those with motor or visual impairments.
+- **No skills needed:** Simple words or symbols require no artistic ability.
+- **Adaptable:** A facilitator can assist with placing sticky notes or transcribing verbal inputs.
 
 ## Outcomes
-- Builds unity by finding shared values and interests.
-- Promotes vitality through fun, connection, and positive energy.
 
-## Why It Works
-- Encourages acceptance and alignment through conversation.
-- Helps people feel seen, heard, and safe.
-- Affordable, quick, inclusive, and adaptable.
+- **Unity:** Collaborative creation of a value collage aligns team members toward shared mission and values.
+- **Vitality:** Open sharing and creative contributions build trust and community.
+- **Psychological Safety:** The supportive environment encourages honest expression, valuing all inputs without judgment.
+- **Community:** Collaborative discussions and contributions foster team connections.
+
+## Cost
+
+- **$5–$12:** Poster board, markers, and sticky notes, well within the $20 budget.
 
 ## Notes
-- Great for new teams forming their identity and values.
+
+- Encourage team members to focus on values like “trust,” “innovation,” or “support” to align with team goals.
+- The collage can be displayed in the meeting room as a reminder of shared values.
+- Inspired by vision board activities, adapted for team-building and psychological safety.
