@@ -1,35 +1,100 @@
-# Common Ground Blitz
+# Pass The Pulse
 
-## Objective
-Promote unity and trust among team members. 
+**Given** a new software development team
+**When** they engage in the Pass The Pulse activity
+**Then** the team builds a unified and vital team culture, with increased psychological safety, trust, and a sense of community
 
-## Time
-15–20 minutes
+## Overview
+
+The Pass The Pulse is a rhythmic team-building activity where team members stand in a circle and pass a simple hand clap or tap in sequence, creating a shared rhythm. The activity evolves with variations like reversing direction or adding new patterns, fostering collaboration and fun. It is quick, inclusive, safe, and requires no materials, making it ideal for a company meeting room.
+
+## Objectives
+
+- **Unity:** Promotes alignment through synchronized rhythmic actions.
+- **Vitality:** Builds trust and community through playful, collective participation.
+- **Psychological Safety:** Creates a low-stakes environment for risk-taking and self-expression.
 
 ## Materials
-- Sticky notes or index cards
-- Pens
-- Timer or phone
+
+- No materials required.
+- A timer to manage rounds.
 
 ## Setup
-- Gather team in a circle or around a table in a meeting room.
-- Distribute sticky notes/cards and pens to everyone.
+
+- **Location:** A company meeting room with enough space for team members to form a circle.
+- **Participants:** Suitable for 4–20 participants (scalable, works well for 8 people).
+- **Duration:** 15 minutes.
+- **Safety:** Involves minimal movement (hand claps or taps), safe for all participants. Ensure enough space to avoid crowding.
 
 ## Instructions
-1. Each person pairs up with someone in the team.
-2. In 3 minutes, pairs must find as many non-obvious things they have in common (not work-related).
-3. Write one commonality per sticky note.
-4. Rotate pairs and repeat (max 2 rotations).
-5. Stick notes on the wall under “Common Ground.”
+
+## Scenario: Introducing the team-building activity
+
+**Given** a new software development team in a company meeting room
+**When** the facilitator explains the purpose and structure of a rhythmic group activity
+**Then** team members understand the goal of fostering trust and connection
+And the team is prepared to engage in a unified activity
+
+## Scenario: Establishing the initial rhythm
+
+**Given** team members standing in a circle in a meeting room
+**When** participants pass a single clap or tap clockwise around the circle, maintaining a steady rhythm (3 minutes)
+**Then** team members build alignment through coordinated action
+And trust begins to develop through mutual focus
+
+## Scenario: Adding complexity to strengthen team connections
+
+**Given** team members who have mastered the initial rhythm
+**When** the facilitator introduces a variation (e.g., reversing direction or adding a double clap) and participants adapt for two rounds (4 minutes)
+**Then** team members form broader connections through shared challenges
+And a sense of community is strengthened
+
+**Scenario:** Unifying through group improvisation
+
+**Given** team members who have practiced rhythmic variations
+**When** different team members take turns leading a new rhythm pattern for 1 minute each (3 minutes)
+**Then** the team achieves greater unity through shared leadership
+And team members feel a stronger collective purpose
+
+**Scenario:** Reflecting to enhance psychological safety
+
+**Given** a team that has completed the rhythmic activity
+**When** the facilitator leads a 3-minute discussion, asking questions like “How did it feel to keep the rhythm together?” or “What did you notice about our teamwork?”
+**Then** team members express feelings of increased psychological safety
+And trust and community are reinforced through shared reflections
+
+**Scenario:** Ensuring accessibility for all participants
+
+**Given** a team with diverse abilities in a company meeting room
+**When** the activity involves simple, adaptable actions (e.g., hand taps, foot taps, or verbal cues like saying “pulse”) requiring no prior skills
+**Then** all team members, including those with mobility or hearing impairments, can participate fully
+
+**Scenario:** Adhering to time and cost constraints
+
+**Given** a team-building activity in a company meeting room
+**When** the activity is completed in 15 minutes with no materials required
+**Then** the activity meets the time constraint of under 20 minutes
+And the activity incurs no cost, staying within the $20 budget
+
+## Accessibility
+
+- **Inclusive:** Actions can be adapted (e.g., seated hand taps or verbal “pulse” for mobility/hearing impairments).
+- **No skills needed:** Simple claps or taps require no prior experience.
+- **Adaptable:** Non-physical cues (e.g., saying “go”) can replace claps for accessibility.
 
 ## Outcomes
-- Builds unity by finding shared values and interests.
-- Promotes vitality through fun, connection, and positive energy.
 
-## Why It Works
-- Encourages acceptance and alignment through conversation.
-- Helps people feel seen, heard, and safe.
-- Affordable, quick, inclusive, and adaptable.
+- **Unity:** Synchronized rhythm fosters alignment, encouraging the team to “row in the same direction.”
+- **Vitality:** Playful interaction and shared challenges build trust and community.
+- **Psychological Safety:** The fun, low-stakes environment allows risk-taking (e.g., leading a new rhythm) without fear of judgment.
+- **Community:** Group participation and leadership rotation strengthen team bonds.
+
+## Cost
+
+- **$0:** No materials needed, well within the $20 budget.
 
 ## Notes
-- Great for new teams forming their identity and values.
+
+- Keep rhythms simple to ensure accessibility and avoid frustration.
+- Encourage laughter and light-heartedness to enhance the fun atmosphere.
+- Inspired by rhythm-based group games, adapted for team-building and psychological safety.
