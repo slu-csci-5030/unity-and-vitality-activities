@@ -1,35 +1,101 @@
-# Common Ground Blitz
+# Team Story Weave
 
-## Objective
-Promote unity and trust among team members. 
+**Given** a new software development team
+**When** they engage in the Team Story Weave activity
+**Then** the team builds a unified and vital team culture, with increased psychological safety, trust, and a sense of community
 
-## Time
-15–20 minutes
+## Overview
+
+The Team Story Weave is a collaborative storytelling activity where team members collectively create a short, fun story by contributing one sentence at a time. This activity encourages creativity, active listening, and alignment toward a shared narrative, fostering unity and vitality. It is quick, inclusive, and requires minimal materials, making it ideal for a company meeting room.
+
+## Objectives
+
+**Unity:** Promotes alignment by collaboratively building a shared story.
+**Vitality:** Encourages trust and community through creative contributions and mutual respect.
+**Psychological Safety:** Provides a safe space for self-expression without fear of judgment.
 
 ## Materials
-- Sticky notes or index cards
-- Pens
-- Timer or phone
+
+- A whiteboard or large paper for writing the story (optional, can be verbal).
+- A pen or marker (optional, cost under $5).
+- A timer to manage rounds.
 
 ## Setup
-- Gather team in a circle or around a table in a meeting room.
-- Distribute sticky notes/cards and pens to everyone.
+
+- **Location:** A company meeting room with space for team members to sit in a circle or semi-circle.
+- **Participants:** Suitable for 4–20 participants (scalable, works well for 8 people).
+- **Duration:** 15 minutes.
+- **Safety:** No physical risks, all participation is verbal or written, ensuring safety for all.
 
 ## Instructions
-1. Each person pairs up with someone in the team.
-2. In 3 minutes, pairs must find as many non-obvious things they have in common (not work-related).
-3. Write one commonality per sticky note.
-4. Rotate pairs and repeat (max 2 rotations).
-5. Stick notes on the wall under “Common Ground.”
+
+## Scenario: Introducing the team-building activity
+
+**Given** a new software development team in a company meeting room
+**When** the facilitator explains the purpose and structure of a collaborative storytelling activity
+**Then** team members understand the goal of fostering trust and connection
+And the team is prepared to engage in a unified activity
+
+## Scenario: Collaborating to create a shared story
+
+**Given** team members seated in a circle in a meeting room
+**When** each participant adds one sentence to a collective story, building on the previous contribution, for one round (2–3 minutes)
+**Then** team members build alignment through a shared creative process
+And trust develops through active listening and mutual respect
+
+## Scenario:# Rotating leadership to strengthen team connections
+
+**Given** team members who have completed an initial story round
+**When** a new team member starts a second story round, and others continue contributing sentences in a different order (e.g., reverse or random), for 2–3 minutes
+**Then** team members form broader connections through varied interactions
+And a sense of community is strengthened
+
+## Scenario: Unifying through a group narrative
+
+**Given** team members who have collaborated on story rounds
+**When** the team selects one story to finalize together, adding a concluding sentence as a group (3 minutes)
+**Then** the team achieves greater unity through shared ownership of the narrative
+And team members feel a stronger collective purpose
+
+## Scenario:# Reflecting to enhance psychological safety
+
+**Given** a team that has completed the storytelling activity
+**When** the facilitator leads a 3-minute discussion on the experience, asking questions like “What did you enjoy about your teammates’ contributions?” or “How did it feel to build something together?”
+**Then** team members express feelings of increased psychological safety
+And trust and community are reinforced through shared reflections
+
+## Scenario: Ensuring accessibility for all participants
+
+**Given** a team with diverse abilities in a company meeting room
+**When** the activity involves verbal or written contributions that require no physical exertion or prior skills
+**Then** all team members, including those with mobility, hearing, or visual impairments, can participate fully
+
+## Scenario: Adhering to time and cost constraints
+
+**Given** a team-building activity in a company meeting room
+**When** the activity is completed in 15 minutes with minimal materials (optional whiteboard/marker, under $5)
+**Then** the activity meets the time constraint of under 20 minutes
+And the activity stays within the $20 budget
+
+## Accessibility
+
+- **Inclusive:** Contributions can be verbal for those with visual or motor impairments or written for those with hearing impairments.
+- **No skills needed:** Storytelling requires no prior experience, making it accessible to all.
+- **Adaptable:** Non-verbal participants can contribute via written notes or a designated speaker.
 
 ## Outcomes
-- Builds unity by finding shared values and interests.
-- Promotes vitality through fun, connection, and positive energy.
 
-## Why It Works
-- Encourages acceptance and alignment through conversation.
-- Helps people feel seen, heard, and safe.
-- Affordable, quick, inclusive, and adaptable.
+- **Unity:** Collaborative storytelling aligns team members toward a shared creative goal, fostering agreement on a collective narrative.
+- **Vitality:** Creative contributions and active listening build trust and a sense of community.
+- **Psychological Safety:** The low-stakes, fun environment encourages self-expression and values all contributions, reducing fear of judgment.
+- **Community:** Rotating contributions ensure everyone interacts, strengthening team bonds.
+
+## Cost
+
+- **$0–$5:** Optional whiteboard/marker, well within the $20 budget.
 
 ## Notes
-- Great for new teams forming their identity and values.
+
+- Encourage fun, light-hearted story themes to keep the mood playful.
+- Facilitator can record the story on a whiteboard or verbally summarize for clarity.
+- Inspired by improvisational storytelling games, adapted for team-building and psychological safety.
