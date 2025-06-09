@@ -1,35 +1,60 @@
-# Common Ground Blitz
+# Two Truths and a Dream
+
+## Overview
+This short and fun activity fosters **unity** and **vitality** by encouraging team members to reveal interesting personal details and aspirations. It builds trust and psychological safety by allowing individuals to be open in a playful, non-threatening way.
 
 ## Objective
-Promote unity and trust among team members. 
+Help team members:
+- Learn about each other
+- Feel safe expressing personal stories and dreams
+- Develop a sense of belonging and connection
 
-## Time
-15–20 minutes
+## Duration
+⏱Total Time: 15–20 minutes  
+Team Size: 3
 
 ## Materials
-- Sticky notes or index cards
-- Pens
-- Timer or phone
-
-## Setup
-- Gather team in a circle or around a table in a meeting room.
-- Distribute sticky notes/cards and pens to everyone.
+- None (pen/paper optional)
+- $0 cost
+- Meeting room or virtual space
 
 ## Instructions
-1. Each person pairs up with someone in the team.
-2. In 3 minutes, pairs must find as many non-obvious things they have in common (not work-related).
-3. Write one commonality per sticky note.
-4. Rotate pairs and repeat (max 2 rotations).
-5. Stick notes on the wall under “Common Ground.”
+
+1. **Introduction (2 minutes):**  
+   The facilitator explains the game:
+   > "Each of us will share 3 statements: 2 truths about our past or personality, and 1 dream or aspiration. The rest of us will guess which is the dream."
+
+2. **Sharing (12–15 minutes):**  
+   One by one, each person shares their 3 statements.  
+   The group guesses which statement is the *dream*.  
+   The speaker then reveals the correct answer and shares the story behind the dream.
+
+3. **Reflection (2–3 minutes):**  
+   Close with a discussion prompt:  
+   > "Did anything surprise you? What new connection did you make?"
+
+## Example
+
+**Obsa’s turn**:  
+1. I used to be a judge in Ethiopia.  
+2. I’ve taught Civics to adults.  
+3. I dream of starting a data-driven newspaper for the Horn of Africa.
+
+The group guesses #3 — correct!  
+Follow-up: Obsa shares a bit more about this dream.
 
 ## Outcomes
-- Builds unity by finding shared values and interests.
-- Promotes vitality through fun, connection, and positive energy.
 
-## Why It Works
-- Encourages acceptance and alignment through conversation.
-- Helps people feel seen, heard, and safe.
-- Affordable, quick, inclusive, and adaptable.
+- **Unity** through shared storytelling and personal connection
+- **Vitality** via trust-building and revealing dreams
+- **Psychological Safety** by showing it's safe to express aspirations
+- **Accessible** to all team members (introverts can prepare ahead)
+- **Scalable**, **free**, and **simple** to run
 
-## Notes
-- Great for new teams forming their identity and values.
+## After the Activity
+Encourage team members to post one dream on a shared whiteboard or Slack thread as a reminder of their aspirations and support network.
+
+## File Metadata
+
+- **File Name**: `two-truths-and-a-dream.md`
+- **Submitted as**: Pull Request to `slu-csci-5030/unity-and-vitality-activities`
